@@ -30,3 +30,4 @@ export const HomeScreen: React.FunctionComponent<HomescreenProps> = ({
     </HomeScreenContainer>
   );
 };
+

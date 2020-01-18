@@ -5,4 +5,5 @@ export const GameScreenContainer = styled.View`
   height: 100%;
   justify-content: center;
   align-items: center;
+  
 `;
